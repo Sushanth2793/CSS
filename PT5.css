@@ -1,0 +1,12 @@
+#Box{
+    height: 200px;
+    width: 200px;
+    color: rgb(14, 14, 103);
+    font-size: 30px;
+    background-color: blue;
+    position: fixed;
+    top: 50px;
+    right: 0;
+    background-image: url("Flowers_photo.jpg");
+    background-size: cover;
+}
